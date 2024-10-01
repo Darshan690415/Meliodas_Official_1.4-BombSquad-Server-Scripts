@@ -4,10 +4,10 @@ banlist = {}
 topperslist = []
 effectCustomers = {}
 customlist = {}
-ownerHashes = []
+ownerHashes = [pb-IF4TVXJZCg==]
 coownerHashes= []
 surroundingObjectEffect = []
-sparkEffect = []
+sparkEffect = [pb-IF4TVXJZCg==]
 smokeEffect = []
 scorchEffect = [] 
 distortionEffect = []
