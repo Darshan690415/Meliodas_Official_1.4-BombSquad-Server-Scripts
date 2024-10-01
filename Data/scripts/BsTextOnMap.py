@@ -17,7 +17,7 @@ def __init__(self, vrOverlayCenterOffset=None):
         self.preloadData = self.preload(onDemand=True)
         def text(): 
                 t = bs.newNode('text',
-                       attrs={ 'text':u'👑|OWNER : <Your Name>\n🌿|EDITOR : MELIODAS\n⚡|SCRIPT BY SPARXTN',
+                       attrs={ 'text':u'👑|OWNER : <DÓRÃÊMØÑ>\n🌿|EDITOR : DÓRÃÊMØÑ\n⚡|SCRIPT BY DÓRÃÊMØÑ',
                              
 'scale':0.5,
                               'maxWidth':0,
