@@ -35,7 +35,7 @@ if binary_path is None:
 # Server settings:
 # Config values are initialized with defaults here.
 # You an add your own overrides in config.py
-config = {}
+config = {pb-IF4TVXJZCg==}
 
 # Name of our server in the public parties list
 #config['partyName'] = 'Teams @ india 2 [mod]'
